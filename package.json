@@ -48,7 +48,7 @@
     "glob": "^7.0.0",
     "got": "^6.2.0",
     "hosted-git-info": "^2.1.4",
-    "humanize-duration": "^3.6.1",
+    "humanize-duration": "^3.11.0",
     "is-link-working": "^2.1.0",
     "is-regular-file": "^1.0.1",
     "json5": "^0.5.0",
